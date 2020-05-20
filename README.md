@@ -1,5 +1,7 @@
 # Continuous Integration example for Python
 
+[![Build Status](https://travis-ci.com/bernease/codebase.svg?branch=master)](https://travis-ci.org/bernease/codebase)
+
 ### To get started
 * Go to https://travis-ci.org/ and sign using your GitHub account.  Click on the _+_ button next to the list of repositories on the left hand side. Select the repo from the list and enable the service by flipping the slider.
 * Create an empty virtual environment
